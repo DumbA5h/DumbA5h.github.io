@@ -1,14 +1,15 @@
 
 
-# `whoami`
+# `#whoami\n#DumbA5h`
 
-[Link to another page](./another-page.html).
+## Cyber Security Researcher
+I'm a cyber security researcher, studying cyber security since early 2018. 
+I'm currently an undergraduate IT student.
 
-There should be whitespace between paragraphs.
+## What I like to do....
+I like to play CTFs. 
+Apart from cyber security related stuff I also like to study ### Astrophysics, yes like space-time, cosmos, etc.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
