@@ -11,7 +11,7 @@ I'm currently an undergraduate IT student.
 
 ## What I like to do....
 I like to play CTFs. 
-Apart from cyber security related stuff I also like to study ### Astrophysics, yes like space-time, cosmos, etc.
+Apart from cyber security related stuff I also like to study `Astrophysics`, yes like space-time, cosmos, etc.
 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
