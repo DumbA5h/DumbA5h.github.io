@@ -1,6 +1,7 @@
 
 
-# `#whoami\n#DumbA5h`
+# `#whoami`
+  `#DumbA5h`
 
 ## Cyber Security Researcher
 I'm a cyber security researcher, studying cyber security since early 2018. 
