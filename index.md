@@ -4,6 +4,7 @@
 $ whoami
 DumbA5h
 ```
+
 ## Cyber Security Researcher
 I'm a cyber security researcher, studying cyber security since early 2018. 
 I'm currently an undergraduate IT student.
