@@ -4,6 +4,8 @@
 $ whoami
 DumbA5h
 ```
+<script src="https://www.hackthebox.eu/badge/22392"></script>
+
 
 ## Cyber Security Researcher
 I'm a cyber security researcher, studying cyber security since early 2018. 
