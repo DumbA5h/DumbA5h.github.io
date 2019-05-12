@@ -217,10 +217,8 @@ hr {
 
 .btn .icon {
   display: inline-block;
-  width: auto;
-  height: auto;
-  max-width: 16px; 
-  max-height: 16px;
+  width: 16px; 
+  height: 16px;
   margin: 1px 8px 0 0;
   float: left;
 }
@@ -232,10 +230,12 @@ hr {
 .btn-htb .icon {
   opacity: 0.6;
   background: url("../images/htb.png") 0 0 no-repeat;
+  background-size:contain;
 }
 .btn-lnk .icon {
   opacity: 0.6;
   background: url("../images/lnk.PNG") 0 0 no-repeat;
+  background-size:contain;
 }
 /* Links
    a, a:hover, a:visited
