@@ -15,7 +15,7 @@
       <div class="container">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-      {% if page.url == "/index.html" %}
+      {% if page.dir == "/bio/" %}
         <section id="downloads">
           <a href="https://www.linkedin.com/in/ashish-patil-07871a16b/" class="btn btn-lnk"><span class="icon"></span>View on LinkedIn</a>
           <a href="https://github.com/DumbA5h" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
