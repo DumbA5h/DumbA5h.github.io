@@ -1,4 +1,6 @@
-<title> Home </title>
+<html>
+  <title> Home </title>
+</html>  
 ## [$whoami](./bio/index.html) 
 ## Posts
 > [Stealing domain passwords and hashes](./ADPentesting/passwords-hash-stealing.html)
