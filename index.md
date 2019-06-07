@@ -3,4 +3,4 @@
 ## Posts
 > [Stealing User/Domain Passwords and Hashes Covertly](./ADPentesting/passwords-hash-stealing.html)
 >
-> [Exploiting Web Proxy Auto-Discovery Protocol](./ADPentesting/wpad.html)
+
