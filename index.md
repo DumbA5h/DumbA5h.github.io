@@ -9,4 +9,4 @@
 >
 >[Digital Signature](./digital-signing/)
 >
->[Red Teaming](./ADPentesting/red-teaming.html)
+>[Red Teaming](./red-teaming/)
